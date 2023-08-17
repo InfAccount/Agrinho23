@@ -1,0 +1,29 @@
+.body{
+text-align: center;
+}
+
+.heading{
+
+}
+
+.one{
+    color: red;
+}
+
+.two{
+
+}
+
+p{
+    font-family: monospace;
+
+    border-right: 4px solid;
+    width: 10ch;
+}
+..h1{
+    text-align: center;
+}
+
+.head{
+    text-align: center;
+}
